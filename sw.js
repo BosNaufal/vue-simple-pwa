@@ -2,7 +2,7 @@
 
 importScripts('serviceworker-cache-polyfill.js');
 
-var CACHE_NAME = 'simple-pwa';
+var CACHE_NAME = 'simple-pwa-v2';
 
 // File want to cache
 var urlsToCache = [
@@ -103,7 +103,7 @@ self.onactivate = function (e) {
 
   console.log('[serviceWorker]: Actived');
 
-  var whiteList = ['simple-pwa'];
+  var whiteList = ['simple-pwa-v2'];
 
   e.waitUntil(
     caches.keys().then(function (cacheNames) {
