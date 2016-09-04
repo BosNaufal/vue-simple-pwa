@@ -1,0 +1,31 @@
+
+.Searchbar
+  @extend .u-transition--default
+  background: white
+  position: fixed
+  top: 56px
+  left: 0
+  width: 100%
+  padding: 7px 15px
+  -webkit-transform: translateY(-100%)
+  -ms-transform: translateY(-100%)
+  -o-transform: translateY(-100%)
+  transform: translateY(-100%)
+  z-index: 1
+
+  &--open
+    -webkit-transform: translateY(0%)
+    -ms-transform: translateY(0%)
+    -o-transform: translateY(0%)
+    transform: translateY(0%)
+
+  &-input
+    border: 0
+    width: 84%
+    font-size: 1.5rem
+    padding: 7px 0
+
+  &-button
+    font-size: 2.1rem
+    padding: 5px 12px
+    line-height: 0

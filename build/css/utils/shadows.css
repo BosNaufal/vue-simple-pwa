@@ -1,0 +1,11 @@
+.u-shadow {
+  box-shadow: 0 1px 3px 0 rgba(0,0,0,0.3);
+}
+.u-shadow--light {
+  box-shadow: 2px 2px 7px 0px rgba(0,0,0,0.1);
+}
+.u-shadow--none {
+  box-shadow: none !important;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNoYWRvd3MuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0Usd0NBQXdDO0NBQ3pDO0FBQ0Q7RUFDRSw0Q0FBNEM7Q0FDN0M7QUFDRDtFQUNFLDRCQUE0QjtDQUM3QiIsImZpbGUiOiJ1dGlscy9zaGFkb3dzLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi51LXNoYWRvdyB7XG4gIGJveC1zaGFkb3c6IDAgMXB4IDNweCAwIHJnYmEoMCwwLDAsMC4zKTtcbn1cbi51LXNoYWRvdy0tbGlnaHQge1xuICBib3gtc2hhZG93OiAycHggMnB4IDdweCAwcHggcmdiYSgwLDAsMCwwLjEpO1xufVxuLnUtc2hhZG93LS1ub25lIHtcbiAgYm94LXNoYWRvdzogbm9uZSAhaW1wb3J0YW50O1xufVxuIl0sInNvdXJjZVJvb3QiOiIvc291cmNlLyJ9 */

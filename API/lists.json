@@ -1,0 +1,42 @@
+
+[
+  {
+    "id": 0,
+    "title": "Rahasia Tersembunyi Sedekah Yang Akan Membuat Anda Terkejut",
+    "category": "Life Style",
+    "cover": "./src/assets/img-content/Carli Jean Miller.jpg",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt laboriosam, doloremque, sed, sit atque voluptas blanditiis obcaecati quia cumque ab aperiam! Quo fugiat quasi nesciunt dolores ipsum porro explicabo laborum voluptates, eligendi sequi, omnis quibusdam itaque voluptatem veritatis non maxime incidunt reiciendis, consectetur veniam iste soluta unde. Enim odit harum accusantium iste assumenda, eligendi excepturi et dignissimos a distinctio, velit sunt dolor tempora delectus, autem similique amet quia labore ducimus veritatis veniam molestias sequi! Error hic aperiam, ratione eaque temporibus. Sint dolor ea consequatur architecto, similique, vero doloribus tempore voluptates totam pariatur iure, fugit commodi quis ducimus aspernatur consectetur laborum ad optio! Minus rerum pariatur vero natus et, quod architecto laborum ab quis quia veritatis temporibus iusto, similique, quisquam fugiat aspernatur libero id facere praesentium blanditiis doloremque. Ullam officia dignissimos, alias neque eveniet unde assumenda, odit repudiandae ipsum delectus porro atque praesentium quisquam sequi sunt voluptatem voluptates maxime nesciunt ab."
+  },
+
+  {
+    "id": 1,
+    "title": "Niatkan Untuk Berbagi Ilmu",
+    "category": "Hiburan",
+    "cover": "./src/assets/img-content/Jonas Nilsson Lee.jpg",
+    "content": "Jangan pernah mencari kesempurnaan saat menjadi pemateri. Tapi niatkan untuk berbagi Ilmu agar Ilmu yang kita pelajari selama ini menjadi bermanfaat bagi banyak orang. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt laboriosam, doloremque, sed, sit atque voluptas blanditiis obcaecati quia cumque ab aperiam! Quo fugiat quasi nesciunt dolores ipsum porro explicabo laborum voluptates, eligendi sequi, omnis quibusdam itaque voluptatem veritatis non maxime incidunt reiciendis, consectetur veniam iste soluta unde. Enim odit harum actium quisquam sequi sunt voluptatem voluptates maxime nesciunt ab."
+  },
+
+  {
+    "id": 2,
+    "title": "Event Bekraf Dihadiri 1500 Developer",
+    "category": "Hiburan",
+    "cover": "./src/assets/img-content/city-11087.jpg",
+    "content": "Event Ini Diselenggarakan di Surabaya. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt laboriosam, doloremque, sed, sit atque voluptas blanditiis obcaecati quia cumque ab aperiam! Quo fugiat quasi nesciunt dolores ipsum porro explicabo laborum voluptates, eligendi sequi, omnis quibusdam itaque voluptatem veritatis non maxime incidunt reiciendis, consectetur veniam iste soluta unde. Enim odit harum accusantium iste assumenda, eligendi excepturi et dignissimos a distinctio, velit sunt dolor tempora delectus, autem similique amet quia labore ducimus veritatis veniam molestias sequi! Error hic aperiam, ratione eaque temporibus. Sint dolor ea consequatur architecto, similique, vero doloribus tempore voluptates totam pariatur iure, fugit commodi quis ducimus aspernatur consectetur laborum ad optio! Minus rerum pariatur vero natus et, quod architecto laborum ab quis quia veritatis temporibus iusto, similique, quisquam fugiat aspernatur libero id facere praesentium blanditiis doloremque. Ullam officia dignissimos, alias neque eveniet unde assumenda, odit repudiandae ipsum delectus porro atque praesentium quisquam sequi sunt voluptatem voluptates maxime nesciunt ab."
+  },
+
+  {
+    "id": 3,
+    "title": "Bukan Hemat Pangkal Kaya, Tapi Sedekah Pangkal Kaya",
+    "category": "Life Style",
+    "cover": "./src/assets/img-content/Felipe Santana.jpg",
+    "content": "Jadi jangan Pernah Ragu Buat bersedekah~ Baik Ilmu, Harta, ataupun Tenaga. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt laboriosam, doloremque, sed, sit atque voluptas blanditiis obcaecati quia cumque ab aperiam! Quo fugiat quasi nesciunt dolores ipsum porro explicabo laborum voluptates, eligendi sequi, omnis quibusdam itaque volup velit sunt dolor tempora delectus, autem similique amet quia labore ducimus veritatis veniam molestias sequi! Error hic aperiam, ratione eaque temporibus. Sint dolor ea consequatur architecto, similique, vero doloribus tempore voluptates totam pariatur iure, fugit commodi quis ducimus aspernatur consectetur laborum ad optio! Minus rerum pariatur vero natus et, quod architecto laborum ab quis quia veritatis temporibus iusto, similique, quisquam fugiat aspernatur libero id facere praesentium blanditiis doloremque. Ullam officia dignissimos, alias neque eveniet unde assumenda, odit repudiandae ipsum delectus porro atque praesentium quisquam sequi sunt voluptatem voluptates maxime nesciunt ab."
+  },
+
+  {
+    "id": 4,
+    "title": "Anda Hanya Perlu Belajar Selama 20 Jam Untuk Mencapai Level Bisa",
+    "category": "Motivasi",
+    "cover": "./src/assets/img-content/Aleksi Tappura.jpg",
+    "content": "Anda, Yaa Anda! Anda Hanya Perlu Belajar Selama 20 Jam Untuk Mencapai Level Bisa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt laboriosam, doloremque, sed, sit atque voluptas blanditiis obcaecati quia cumque ab aperiam! Quo fugiat quasi nesciunt dolores ipsum porro explicabo laborum voluptates, eligendi sequi, omnis quibusdam itaque voluptatem veritatis non maxime incidunt reiciendis, consectetur veniam iste soluta unde. Enim odit harum accusantium iste assumenda, eligendi excepturi et dignissimos a distinctio, velit sunt dolor tempora delectus, autem similique amet quia labore ducimus veritatis veniam molestias sequi! Error hic aperiam, ratione eaque temporibus. Sint dolor ea consequatur architecto, similique, vero doloribus tempore voluptates totam."
+  }
+]

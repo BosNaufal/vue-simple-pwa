@@ -1,0 +1,52 @@
+
+.Sidebar
+  @extend .u-transition--default
+  background: white
+  width: 75%
+  position: fixed
+  height: 100%
+  top: 56px
+  left: 0
+  -webkit-transform: translateX(-100%)
+  -ms-transform: translateX(-100%)
+  -o-transform: translateX(-100%)
+  transform: translateX(-100%)
+  z-index: 97
+
+  &--open
+    -webkit-transform: translateX(0%)
+    -ms-transform: translateX(0%)
+    -o-transform: translateX(0%)
+    transform: translateX(0%)
+
+
+  &-title, &-menu a
+    padding: 7px 20px
+
+  &-title
+    margin: 15px 0 7px
+
+  &-menu
+    a
+      font-size: 1.7rem
+      display: inline-block
+      text-decoration: none !important
+      color: grey
+      width: 100%
+
+      &:hover
+        color: $secondary
+
+  &-overlay
+    display: none
+    background: #000
+    opacity: 0.5
+    position: fixed
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    z-index: 96
+
+    &--open
+      display: block
